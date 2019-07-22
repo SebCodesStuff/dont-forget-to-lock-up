@@ -1,6 +1,0 @@
-const path = require('path')
-
-module.exports = {
-  'config': path.resolve('./db/config.json'),
-  'models-path': path.resolve('./db/index.js')
-}
