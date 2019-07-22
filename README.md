@@ -7,7 +7,7 @@
 - from the command line run: `createuser username --createdb` and replace username with a name of your choosing
 - from the command line run: `createdb lockup`
 - see **config/config.json.example** as an example to create your own config file in **config/config.json**
-- In **server/config/config.json** populate the `username`, `password`, and `database` settings with your username, password (if you didn't create or set one when setting up your database leave it as an empty string), and database name (probably "cosyndicate")
+- In **server/config/config.json** populate the `username`, `password`, and `database` settings with your username, password (if you didn't create or set one when setting up your database leave it as an empty string), and database name
 
 #### Node
 
